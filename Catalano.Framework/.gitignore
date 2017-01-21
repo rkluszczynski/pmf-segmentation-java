@@ -1,4 +1,6 @@
 Documentation/
 !Libs/*.jar
 Resources/
+Samples/
+Source code/
 *.txt
