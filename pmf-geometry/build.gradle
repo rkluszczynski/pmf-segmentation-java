@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+    id 'groovy'
+}
+
+dependencies {
+    testCompile "org.spockframework:spock-core:${versions.spock}"
+}
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+[compileGroovy, compileTestGroovy]*.options*.encoding = 'UTF-8'
