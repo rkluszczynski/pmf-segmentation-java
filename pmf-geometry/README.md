@@ -3,6 +3,7 @@
 
  - https://en.wikipedia.org/wiki/Bentley–Ottmann_algorithm
  - https://en.wikipedia.org/wiki/Bentley–Ottmann_algorithm#Special_position_and_numerical_precision_issues
+ - https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/
 
 ### Java Implementations Found
 
@@ -17,3 +18,4 @@
 
  - http://www.cgal.org
  - http://www.wykobi.com
+ - https://en.wikipedia.org/wiki/JTS_Topology_Suite
